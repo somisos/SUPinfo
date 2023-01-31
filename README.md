@@ -1,2 +1,0 @@
-# SUPinfo
-SUPinfo tests
